@@ -8,3 +8,7 @@ def batch_badge_creator(attendees)
     badge_maker(badges)
   end
 end
+
+def assign_rooms(attendees)
+
+end
