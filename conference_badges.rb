@@ -18,6 +18,6 @@ def assign_rooms(attendees)
 end
 
 def printer(attendees)
-  attendees.each_with_index { |name, badge| }
+  attendees.each_with_index { |name, room| }
     "Hello, my name is #{name}."
 end
